@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Do you Dare</string>
+
+
+    <string name="insructionsButton"><u>Go to app</u></string>
+    <string name="like"><u>Like</u></string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="post">Post</string>
+    <string name="newfeed">New feed</string>
+    <string name="cardLayout_name"><b>First name</b></string>
+    <string name="sur_name"><b>Surname</b></string>
+    <string name="dialog_text">"What's up?</string>
+
+
+    <string name="Like_Count">69</string>
+
+    //profile Strings
+    <string name="PROFILEemail"><a href="http://www.gmail.com/faiqriwan@gmail.com">faiqriwan@gmail.com</a></string>
+    <string name="phone">+92-334-311822</string>
+    <string name="twitter"><a href="http://www.twitter.com/FaiqfaiqfRizwan">FaiqfaiqfRizwan</a></string>
+    <string name="PROFILEfacebook"><a href="http://www.facebook.com/faiq_rizwan@yahoo.com">faiq_rizwan@yahoo.com</a></string>
+
+
+    <string name="recovery">Recovery</string>
+    <!-- SIGNUP -->
+    <string name="signup">SIGN UP</string>
+    <string name="username">USER NAME</string>
+    <string name="fullname">FULL NAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="email">EMAIL</string>
+    <string name="birthday">Date of Birth : </string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="h_dob">DD/MM/YY</string>
+    <string name="term">Agree To Terms/Conditions</string>
+    <string name="or">OR</string>
+    <string name="facebook">Facebook</string>
+
+    <!--    login       -->
+    <string name="login">LOG IN</string>
+    <string name="remember">Remember me</string>
+    <string name="forget">Forget Password?</string>
+    <!--    recovery       -->
+    <string name="r_mail">Enter you Email</string>
+    <string name="r_instruction">You can set your password by clicking on the link that will be sent to your email</string>
+    <string name="proceed">Proceed</string>
+
+    <!--    deactivate       -->
+    <string name="d_instruction">Are you sure you want to deactivate your account ?</string>
+    <string name="deactivate_button">Deactivate</string>
+    <string name="d_no">No</string>
+    <!-- friend list -->
+    <string name="name">Name</string>
+
+
+</resources>
